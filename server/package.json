@@ -3,21 +3,23 @@
   "version": "1.0.0",
   "description": "CRUD application",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YashBorekar/CRUD-application.git"
   },
   "keywords": [
-    "\"crud\"",
-    "\"nodejs\"",
-    "\"express\"",
-    "\"mongodb\"",
-    "\"api\"",
-    "\"backend\"",
-    "\"rest\""
+    "crud",
+    "nodejs",
+    "express",
+    "mongodb",
+    "api",
+    "backend",
+    "rest"
   ],
   "author": "Yash Borekar",
   "license": "ISC",
